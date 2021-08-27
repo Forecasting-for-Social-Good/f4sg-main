@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Forecasting for Social Good</title>
+    <link>/team/</link>
+    <description>Recent content in Team on Forecasting for Social Good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Aug 2021 10:47:58 +1000</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bahman Rostami-Tabar</title>
+      <link>/team/bahman-rostami/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/bahman-rostami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Michael Porter</title>
+      <link>/team/mike-porter/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/mike-porter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmed Aziz Ezzat</title>
+      <link>/team/aziz-ezzat/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/aziz-ezzat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shraddhanand Shukla</title>
+      <link>/team/shraddhanand-shukla/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/shraddhanand-shukla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingzhi shi</title>
+      <link>/team/mingzhi-shi/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/mingzhi-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buket Cilali</title>
+      <link>/team/buket-cilali/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/buket-cilali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bahman Rostami-Tabar</title>
+      <link>/team/earo/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/earo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

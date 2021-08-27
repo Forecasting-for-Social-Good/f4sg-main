@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/bahmanrostamitabar/F4SG",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/FSG_forecast",
+        "image": "images/social/twitter.svg"
+    }
+]
