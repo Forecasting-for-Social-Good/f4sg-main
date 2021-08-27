@@ -1,16 +1,16 @@
 ---
-date: "2018-02-22T17:01:34+07:00"
+date: "2021-08-26T17:01:34+07:00"
 layout: contact
 title: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Please feel free to get in touch for any enquiry and if you would like to support the forecasting for social good initiatives by donation or volunteering your time
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+| Project                    | Contact              |
+| -------------------------- | ---------------------|
+| F4SG Workshop              | Buket Cilali         |
+| F4SG Grant                 | Bahman Rostami-Tabar |
+| Democratising Forecasting  | Ahmed Aziz Ezzat     |
+| Book Club                  | Mingzhi shi          |
+| Data Repository            | Hussain Syed Kazmi   |
+| F4G Research Network       | Michael Porter       |
