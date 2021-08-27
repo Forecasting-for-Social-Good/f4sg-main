@@ -6,7 +6,17 @@
     <description>Recent content in Homepage on Forecasting for Social Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 10:47:58 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 15:15:26 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F4SG annual workshop</title>
+      <link>/services/f4sg-workshoop/</link>
+      <pubDate>Thu, 26 Aug 2021 15:14:39 +1000</pubDate>
+      
+      <guid>/services/f4sg-workshoop/</guid>
+      <description>This is an annual workshop sponsored by the International Institute of Forecasters
+Forecasting for Social Good Workshop While there is a growing recognition by agencies, organizations, and governments that data-driven decision making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice.</description>
+    </item>
+    
     <item>
       <title>Bahman Rostami-Tabar</title>
       <link>/team/bahman-rostami/</link>
@@ -17,13 +27,12 @@
     </item>
     
     <item>
-      <title>F4SG annual workshop</title>
-      <link>/services/f4sg-workshoop/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <title>F4SG Research Network</title>
+      <link>/services/network/</link>
+      <pubDate>Tue, 24 Aug 2021 15:15:34 +1000</pubDate>
       
-      <guid>/services/f4sg-workshoop/</guid>
-      <description>This is an annual workshop sponsored by the International Institute of Forecasters
-Forecasting for Social Good Workshop While there is a growing recognition by agencies, organizations, and governments that data-driven decision making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice.</description>
+      <guid>/services/network/</guid>
+      <description>Coming Soon &amp;hellip;</description>
     </item>
     
     <item>
@@ -33,6 +42,17 @@ Forecasting for Social Good Workshop While there is a growing recognition by age
       
       <guid>/team/mike-porter/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>F4SG Grant</title>
+      <link>/services/grant/</link>
+      <pubDate>Thu, 26 Aug 2021 15:14:54 +1000</pubDate>
+      
+      <guid>/services/grant/</guid>
+      <description>A research grant to work on forecasting for social good research
+Forecasting for Social Good Research Grant The Forecasting for Social Good (FSG) research grant aims to draw together researchers and practitioners, from developing and developed countries, to advance forecasting knowledge and its link to decision making, influence forecasting for social good practices and drive developments.
+This research grant is being organized and sponsored by Dr. Bahman Rostami-Tabar, Technology Futures, Inc.</description>
     </item>
     
     <item>
@@ -74,6 +94,25 @@ The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored
     </item>
     
     <item>
+      <title>F4SG Data Repository</title>
+      <link>/services/repository/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/repository/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Book Club</title>
+      <link>/services/book-club/</link>
+      <pubDate>Thu, 26 Aug 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/book-club/</guid>
+      <description>We read, debate and discuss forecasting related books, join us &amp;hellip;
+What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. I believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
+    </item>
+    
+    <item>
       <title>Buket Cilali</title>
       <link>/team/buket-cilali/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
@@ -92,14 +131,12 @@ The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored
     </item>
     
     <item>
-      <title>About</title>
+      <title>About forecasting for social good</title>
       <link>/about/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <pubDate>Sun, 22 Aug 2021 17:01:34 +0700</pubDate>
       
       <guid>/about/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>What is Forecasting for Social Good? What is the point of forecasting? If asked this question, most academics and practitioners would say ‘to inform better decisions’, or words to that effect. This immediately prompts two further questions: i) what do we mean by better? and ii) better for whom? Most of the organisations in which a more professional and analytical approach to forecasting is employed have economic and financial goals, such as minimising costs or maximising profits.</description>
     </item>
     
     <item>

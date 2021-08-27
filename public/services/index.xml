@@ -6,15 +6,35 @@
     <description>Recent content on Forecasting for Social Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 12:33:46 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F4SG annual workshop</title>
       <link>/services/f4sg-workshoop/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <pubDate>Thu, 26 Aug 2021 15:14:39 +1000</pubDate>
       
       <guid>/services/f4sg-workshoop/</guid>
       <description>This is an annual workshop sponsored by the International Institute of Forecasters
 Forecasting for Social Good Workshop While there is a growing recognition by agencies, organizations, and governments that data-driven decision making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice.</description>
+    </item>
+    
+    <item>
+      <title>F4SG Research Network</title>
+      <link>/services/network/</link>
+      <pubDate>Tue, 24 Aug 2021 15:15:34 +1000</pubDate>
+      
+      <guid>/services/network/</guid>
+      <description>Coming Soon &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>F4SG Grant</title>
+      <link>/services/grant/</link>
+      <pubDate>Thu, 26 Aug 2021 15:14:54 +1000</pubDate>
+      
+      <guid>/services/grant/</guid>
+      <description>A research grant to work on forecasting for social good research
+Forecasting for Social Good Research Grant The Forecasting for Social Good (FSG) research grant aims to draw together researchers and practitioners, from developing and developed countries, to advance forecasting knowledge and its link to decision making, influence forecasting for social good practices and drive developments.
+This research grant is being organized and sponsored by Dr. Bahman Rostami-Tabar, Technology Futures, Inc.</description>
     </item>
     
     <item>
@@ -26,6 +46,25 @@ Forecasting for Social Good Workshop While there is a growing recognition by age
       <description>This is an ongoing initiative sponsored by the International Institute of Forecasters that provides cutting-edge training on forecasting.
 Democratising Forecasting This is an ongoing initiative that provides cutting-edge training in the area of forecasting using R in some of the world’s least developed countries and organisations with social missions. The workshop is free of charge.
 The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.</description>
+    </item>
+    
+    <item>
+      <title>F4SG Data Repository</title>
+      <link>/services/repository/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/repository/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Book Club</title>
+      <link>/services/book-club/</link>
+      <pubDate>Thu, 26 Aug 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/book-club/</guid>
+      <description>We read, debate and discuss forecasting related books, join us &amp;hellip;
+What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. I believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
     </item>
     
   </channel>
