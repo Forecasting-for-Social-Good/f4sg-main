@@ -2,9 +2,9 @@
 intro_image: images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-title: Team
+title: F4SG Team
 ---
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+We are a team of academics and practitioners passionate about forecasting for social good research and its implication on decision making, forecasting education and knowledge production and distribution. We are vounteer our time and energy ...
