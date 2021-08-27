@@ -1,50 +1,42 @@
 ---
-date: "2018-11-28T15:15:26+10:00"
+date: "2021-08-28T15:15:26+10:00"
 draft: false
 featured: true
 title: Forecasting Book Club
-weight: 3
+weight: 6
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+We read, debate and discuss forecasting related books, join us ...
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## What is the Forecasting Book club?
 
-## Geniti facinus praeruptam atris ab manus in
+We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. I believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+If you are a learner, this is a platform to learn and develop your knowledge and skills in the area of forecasting. If you are a knowledgeable forecaster and would like to contribute to the creation of a positive online learning community, this is a platform to share your knowledge, skills and experiences! Please get in touch if you would like to present in a session.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## What is the format?
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+We read and discuss a chapter(s) of a book, the session is informal and coordinated by one of the members. This is not a presentation style meeting, we expect everybody to read the agrred chapter(s) in advance of the meeting and we allow enough time to discuss, debate and clarify problems during the meeting.
 
-## Vidit si probetne vertitur
+We have read the following books so far:
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+1. [Profit From Your Forecasting Software: A Best Practice Guide for Sales Forecasters by Paul Goodwin](https://www.amazon.co.uk/Profit-Your-Forecasting-Software-Forecasters/dp/1119414571)
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+2. [Forecasting: principles and practice by Rob J Hyndman and George Athanasopoulos.](https://otexts.com/fpp3/)
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+## Current Book
+
+We are currently reading [Tidy Modeling with R](https://www.tmwr.org/) by MAX KUHN AND JULIA SILGE
+
+## What is the schedule?
+
+We meet every two weeks on Fridays, 12:30 p.m. - 13:30 p.m. (Europe/London). We are flexible, so if we get members from different tome zone, we will adopt and choose a better TZ for everyone.
+
+## Join the Slack channel
+
+The communication is via Slack, we would be delighted to see you next time. Please join the Forecasting Book Club Slack channel [HERE](https://join.slack.com/t/fbc-cv37548/shared_invite/zt-n2z4du5v-uG_oobOs8fpMFnDZaMqHyg)
+
+## Video call platform
+
+We use Zoom for video calls. You will get the link to join the meeting in the Slack channel. Please download and install Zoom before joining the meeting.
+

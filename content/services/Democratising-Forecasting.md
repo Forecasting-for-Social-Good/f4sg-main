@@ -1,82 +1,66 @@
 ---
-date: "2018-11-18T12:33:46+10:00"
+date: "2021-08-18T12:33:46+10:00"
 draft: false
 featured: true
 title: Democratising Forecasting
-weight: 1
+weight: 4
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+This is an ongoing initiative sponsored by the International Institute of Forecasters that provides cutting-edge training on forecasting.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Democratising Forecasting
 
-# Objectives 
+This is an ongoing initiative that provides cutting-edge training in the area of forecasting using R in some of the world’s least developed countries and organisations with social missions. The workshop is free of charge.
 
-Financial accounting and financial reporting are often used as synonyms.
+The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters. The project requires coordination and travelling and has been paused due to travel restriction caused by Covid19 pandemic.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## What is the project about?
 
-## Relevance
+A series of workshops in developing economies to promote the importance of forecasting and ‘train the trainers’ in the form of university students, academics and professionals on the principles of forecasting using R software to support decision making. The workshops are designed for 3 days and are free of charge.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
-
-> The ingredients of relevance are the predictive value and confirmatory value. 
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+Countries are selected according to the World Bank Data with focus on countries with lower and lower-middle income.
 
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+## Benefits to the participants and forecasting community
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+1. Transfer of knowledge and skills on “forecasting” which can be served to make better decisions that may have positive direct impact on their society;
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+2. Provide an up-to-date training in data analysis and forecasting using R;
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+3. Create a research network among target countries with a focus on analytics for social good;
 
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
+## What participants learn in the workshop?
 
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
+Assuming basic knowledge of statistics and through a step-by-step approach from theory to practice,
+participants will learn:
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+- he importance of forecasting and its relation to decision making in public organizations, private
+sector, governments, NGOs, Humanitarian Organizations, etc;
+
+- How to prepare, manipulate and visualize data using R;
+
+- The theory behind forecasting models;
+
+- How to produce forecasts and evaluate their accuracy across a range of statistical forecasting
+models using real-world data;
+
+- How to use R functions and their packages related to forecasting models;
+
+- How to visualize, export and report results for interpretation and insights using RMarkdown.
+
+## This workshop is for you if you are:
+
+- academic, student and want to expand your knowledge on forecasting using R software;
+
+- practitioner and want to learn how to analyse, manipulate, visualize data and produce forecasts to inform decisions in your organization: public organizations, private sector, governments, NGOs,
+humanitarian , etc;
+
+## Prerequisites
+
+- Basic knowledge in statistics;
+- No knowledge of forecasting is assumed.
+- No prior knowledge of R is assumed.
+
+## Online version of the workshop
+
+We are currently developing an online version of the workshop, stay tuned!
