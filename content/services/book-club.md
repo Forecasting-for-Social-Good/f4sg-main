@@ -6,7 +6,7 @@ title: Forecasting Book Club
 weight: 6
 ---
 
-We read, debate and discuss forecasting related books, join us ...
+We read, debate and discuss forecasting related books, [join us.](https://join.slack.com/t/fbc-cv37548/shared_invite/zt-n2z4du5v-uG_oobOs8fpMFnDZaMqHyg)
 
 ## What is the Forecasting Book club?
 
