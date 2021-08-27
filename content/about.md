@@ -1,50 +1,22 @@
 ---
-date: "2018-02-22T17:01:34+07:00"
-title: About
+date: "2021-08-22T17:01:34+07:00"
+title: About forecasting for social good
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## What is Forecasting for Social Good?
 
-## Ne verba patulosque numen vix libet
+What is the point of forecasting? If asked this question, most academics and practitioners
+would say ‘to inform better decisions’, or words to that effect. This immediately prompts
+two further questions: i) what do we mean by better? and ii) better for whom? Most of the
+organisations in which a more professional and analytical approach to forecasting is employed have economic and financial goals, such as minimising costs or maximising profits. Alternative goals may also be served by improved forecasting. We defined ‘Forecasting for Social Good (FSG)’ as: _. . . a forecasting process that aims to inform decisions that prioritise the thriving of humanity over the thriving of economies by enhancing the social foundation and ecological ceilings that impact the public as a whole on both global and local levels_
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Forecasting for Social Good may call for different perspectives on what constitutes success, and on the means of achieving success. Introducing these new perspectives in practice is not always straightforward and requires research and education.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Who are we?
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+## References
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+1. Rostami-Tabar, Bahman, et al. ["Forecasting for social good."](https://www.sciencedirect.com/science/article/pii/S0169207021000510?casa_token=zyyQFwkJLYUAAAAA:HqqBZuoTJsAwImmsHBR9MLROZs-JHgcuzRv9Qr60V3Mb49v2zaeZO6Uz2x8QM2XrkVb-zRaymn4) International Journal of Forecasting (2021).
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+2. Rostami-Tabar, Bahman, and John E. Boylan. ["Forecasting and its Beneficiaries."](https://arxiv.org/pdf/2107.14512.pdf) arXiv preprint arXiv:2107.14512 (2021).

@@ -1,5 +1,5 @@
 ---
-date: "2021-08-28T15:15:26+10:00"
+date: "2021-08-26T15:15:26+10:00"
 draft: false
 featured: true
 title: Forecasting Book Club
