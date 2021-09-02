@@ -4,6 +4,7 @@ draft: false
 image: images/team/mike.jpeg
 site: https://engineering.virginia.edu/faculty/michael-d-porter
 title: Michael D. Porter
+jobtitle: University of Virginia
 weight: 2
 ---
 

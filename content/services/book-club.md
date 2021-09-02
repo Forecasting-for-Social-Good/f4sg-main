@@ -3,7 +3,7 @@ date: "2021-08-26T15:15:26+10:00"
 draft: false
 featured: true
 title: Forecasting Book Club
-weight: 6
+weight: 7
 ---
 
 We read, debate and discuss forecasting related books, [join us.](https://join.slack.com/t/fbc-cv37548/shared_invite/zt-n2z4du5v-uG_oobOs8fpMFnDZaMqHyg)

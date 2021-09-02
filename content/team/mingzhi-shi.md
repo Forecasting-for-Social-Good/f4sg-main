@@ -4,5 +4,6 @@ draft: false
 image: images/team/mingzhi.jpeg
 site: https://www.linkedin.com/in/mingzhe-shi-0a22451b9/
 title: Mingzhi shi
+jobtitle: Cardiff University
 weight: 5
 ---

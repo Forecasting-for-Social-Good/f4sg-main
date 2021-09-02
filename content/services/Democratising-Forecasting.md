@@ -3,7 +3,7 @@ date: "2021-08-18T12:33:46+10:00"
 draft: false
 featured: true
 title: Democratising Forecasting
-weight: 4
+weight: 6
 ---
 
 This is an ongoing initiative sponsored by the International Institute of Forecasters that provides cutting-edge training on forecasting.

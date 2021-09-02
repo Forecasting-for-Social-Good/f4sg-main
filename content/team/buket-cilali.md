@@ -4,5 +4,6 @@ draft: false
 image: images/team/buket-cilali.jpeg
 site: https://www.ou.edu/systemslab/students.html
 title: Buket Cilali
+jobtitle: University of Oklahoma
 weight: 6
 ---

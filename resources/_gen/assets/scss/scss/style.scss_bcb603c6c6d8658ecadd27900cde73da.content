@@ -4096,7 +4096,7 @@ ol {
   min-height: 100vh;
   flex-direction: column; }
   .page .wrapper {
-    flex: 1 0 0; }
+    flex: 1 1 1; }
 
 .header {
   color: #CA225E;

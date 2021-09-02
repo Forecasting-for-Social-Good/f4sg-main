@@ -4,5 +4,6 @@ draft: false
 image: images/team/bahman.jpeg
 site: www.bahmanrt.com
 title: Bahman Rostami-Tabar
+jobtitle: Cardiff University
 weight: 1
 ---
