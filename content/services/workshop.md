@@ -18,4 +18,4 @@ Past workshops:
 
 1. [Forecasting for Social Good workshop, 2018](https://forecasters.org/wp-content/uploads/2018_24th-IIF-workshop_report.pdf)
 
-2. [Forecasting for Social Good workshop, 2021](https://f4sgw.netlify.app/)
+2. [Forecasting for Social Good workshop, 2021](https://f4sgw-2021.netlify.app/)

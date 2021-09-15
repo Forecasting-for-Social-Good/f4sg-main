@@ -9,7 +9,7 @@ Please feel free to get in touch for any enquiry and if you would like to suppor
 | Project                    | Contact              |
 | -------------------------- | ---------------------|
 | F4SG Workshop              | Buket Cilali         |
-| F4SG Grant                 | Bahman Rostami-Tabar |
+| F4SG Grant                 | Shixuan Wang |
 | Democratising Forecasting  | Ahmed Aziz Ezzat     |
 | Book Club                  | Mingzhi shi          |
 | Data Repository            | Hussain Syed Kazmi   |
