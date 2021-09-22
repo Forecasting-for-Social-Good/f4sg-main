@@ -7,4 +7,4 @@ title: F4SG Team
 
 # Meet The Team
 
-We are a team of academics and practitioners passionate about forecasting for social good research and its implication on decision making, forecasting education and knowledge production and distribution. We are vounteer our time and energy ...
+We are a team of academics and practitioners passionate about forecasting for social good research and its implication on decision making, forecasting education and knowledge production and distribution. 
