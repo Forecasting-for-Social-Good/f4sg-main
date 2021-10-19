@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Forecasting for Social Good
+# Forecasting for Social Good (F4SG)
 
-In recongnision of the potential benefit/harm that forecasting can bring to the society, we have created Forecasting for Social Good initiative 
+In recognition of the potential benefit/harm that forecasting can bring to the society, we have created Forecasting for Social Good and Democratising Forecasting initiatives
 

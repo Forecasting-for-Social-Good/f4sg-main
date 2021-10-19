@@ -16,8 +16,9 @@
   }
   p {
     font-family: $font-family-base;
-    line-height: 1.56;
+    line-height: 1.76;
     color: $steel;
+    font-size: 18px;
   }
   h1 {
     font-family: $font-family-base;
@@ -90,4 +91,8 @@
     color: $steel;
     border-left: .25em solid $secondary;
   }
+}
+
+body {
+  text-align: justify;
 }

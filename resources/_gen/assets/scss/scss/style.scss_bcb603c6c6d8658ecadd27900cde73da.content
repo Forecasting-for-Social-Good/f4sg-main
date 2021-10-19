@@ -4425,8 +4425,9 @@ ol {
 
 .content p {
   font-family: Helvetica, Arial, sans-serif, -apple-system;
-  line-height: 1.56;
-  color: #5C5A5A; }
+  line-height: 1.76;
+  color: #5C5A5A;
+  font-size: 18px; }
 
 .content h1 {
   font-family: Helvetica, Arial, sans-serif, -apple-system;
@@ -4497,6 +4498,9 @@ ol {
   color: #5C5A5A;
   border-left: 0.25em solid #f88379; }
 
+body {
+  text-align: justify; }
+
 .intro {
   display: flex;
   justify-content: flex-start;
@@ -4510,16 +4514,17 @@ ol {
       padding-bottom: 60px; } }
   .intro h1 {
     color: #2f2f41;
-    font-size: 42px;
+    font-size: 34px;
     font-weight: bold;
     line-height: 1.2; }
     @media (min-width: 768px) {
       .intro h1 {
-        width: 80%;
-        font-size: 48px; } }
+        width: 90%;
+        font-size: 45px;
+        text-align: left; } }
     @media (min-width: 992px) {
       .intro h1 {
-        font-size: 50px; } }
+        font-size: 45px; } }
   .intro h2 {
     width: 80%;
     font-size: 1.2rem;
@@ -4542,12 +4547,12 @@ ol {
 .intro-image {
   width: 100%;
   height: auto;
-  margin-top: -20px; }
+  margin-top: 0px; }
 
 .intro-image-absolute {
   max-width: none;
   padding: 0;
-  margin-bottom: 5px; }
+  margin-bottom: 2px; }
   @media (min-width: 768px) {
     .intro-image-absolute {
       position: absolute;
@@ -4555,12 +4560,12 @@ ol {
       left: -20px; } }
   @media (min-width: 992px) {
     .intro-image-absolute {
-      bottom: -60px;
-      left: -20px; } }
+      bottom: -40px;
+      left: -10px; } }
   @media (min-width: 1300px) {
     .intro-image-absolute {
-      bottom: -100px;
-      left: -20px; } }
+      bottom: -80px;
+      left: -10px; } }
 .intro-image-hide-mobile {
   display: none; }
   @media (min-width: 768px) {

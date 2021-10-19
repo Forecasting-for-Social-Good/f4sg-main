@@ -1,13 +1,13 @@
 .intro-image {
   width: 100%;
   height: auto;
-  margin-top: -20px;
+  margin-top: 0px;
 }
 .intro-image-absolute {
   max-width: none;
 
   padding: 0;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   @include media-breakpoint-up(sm) {
   }
   @include media-breakpoint-up(md) {
@@ -16,12 +16,12 @@
     left: -20px;
   }
   @include media-breakpoint-up(lg) {
-    bottom: -60px;
-    left: -20px;
+    bottom: -40px;
+    left: -10px;
   }
   @include media-breakpoint-up(xl) {
-    bottom: -100px;
-    left: -20px;
+    bottom: -80px;
+    left: -10px;
   }
 }
 .intro-image-hide-mobile {
