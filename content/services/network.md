@@ -8,11 +8,11 @@ weight: 2
 
 F4SG Research Network members are researchers and practitioners working on Forecasting for Social Good. 
 
-## [Join F4SG Research Network](https://f4sgrn.netlify.app/)
+## [F4SG Research Network](https://f4sgrn.netlify.app/)
 
 Joining our Research Network is completely free, and gets you:
 
-- updates on forecasting for social good
+- updates on forecasting for social good activities
 
 - research invitations to our seminars and events 
 
@@ -31,3 +31,7 @@ Anyone researching forecasting for social good or related subjects who is workin
 ## Practitioner members
 
 Anyone researching or using forecasting for social good or related subjects outside an academic/research setting. This could include roles in government, private and public sector, third sector organizations, Humanitarian organizations, policy institutes.
+
+## How to join?
+
+You can [join F4SG Research Network](https://docs.google.com/forms/d/e/1FAIpQLScvwsSS7kc5w0BJ7Qhfrv4Hvy2WSSM5o641yROhoXtzN9nb3w/viewform) by completing the form and your information will appear in the F4SG Research Network site and you will be added to F4SG email list.
