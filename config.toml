@@ -21,7 +21,7 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/F4SG-2020-logo.svg"
+    desktop = "images/logo/iifLOGO.jpeg"
     desktop_height = "36px"
     alt = "F4SG"
     
