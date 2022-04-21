@@ -14,8 +14,15 @@ While there is a growing recognition by agencies, organizations, and governments
 
 The F4SG has a special focus on facilitating the professional growth of early career faculty, postdocs, and students who will likely play a leading role in the field of forecasting for social good in the coming years.
 
-Past workshops:
+**F4SG workshop - 2022:**
 
-1. [Forecasting for Social Good workshop, 2018](https://forecasters.org/wp-content/uploads/2018_24th-IIF-workshop_report.pdf)
+1. [Forecasting for Social Good workshop, 2022, Oxford-UK & Virtual](https://f4sg2022.netlify.app/)
 
-2. [Forecasting for Social Good workshop, 2021](https://f4sgw-2021.netlify.app/)
+
+<br>
+
+**Past workshops:**
+
+1. [Forecasting for Social Good workshop, 2021, Virtual](https://f4sgw-2021.netlify.app/)
+
+2. [Forecasting for Social Good workshop, 2018, Cardiff, UK](https://forecasters.org/wp-content/uploads/2018_24th-IIF-workshop_report.pdf)
