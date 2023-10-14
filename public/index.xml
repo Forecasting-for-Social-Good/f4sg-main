@@ -6,23 +6,23 @@
     <description>Recent content in Homepage on Forecasting for Social Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 15:15:26 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 10:47:58 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>F4SG annual workshop</title>
-      <link>/services/f4sg-workshoop/</link>
+      <title>F4SG Annual Workshop</title>
+      <link>/services/workshop/</link>
       <pubDate>Thu, 26 Aug 2021 15:14:39 +1000</pubDate>
       
-      <guid>/services/f4sg-workshoop/</guid>
+      <guid>/services/workshop/</guid>
       <description>This is an annual workshop sponsored by the International Institute of Forecasters
 Forecasting for Social Good Workshop While there is a growing recognition by agencies, organizations, and governments that data-driven decision making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice.</description>
     </item>
     
     <item>
       <title>Bahman Rostami-Tabar</title>
-      <link>/team/bahman-rostami/</link>
+      <link>/team/01bahman-rostami/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
       
-      <guid>/team/bahman-rostami/</guid>
+      <guid>/team/01bahman-rostami/</guid>
       <description></description>
     </item>
     
@@ -32,15 +32,22 @@ Forecasting for Social Good Workshop While there is a growing recognition by age
       <pubDate>Tue, 24 Aug 2021 15:15:34 +1000</pubDate>
       
       <guid>/services/network/</guid>
-      <description>Coming Soon &amp;hellip;</description>
+      <description>F4SG Research Network members are researchers and practitioners working on Forecasting for Social Good.
+F4SG Research Network Joining our Research Network is completely free, and gets you:
+updates on forecasting for social good activities
+research invitations to our seminars and events
+opportunities to network and work with other members
+opportunities to work with organisations
+an active platform to share your research and publications on F4SG.
+And here’s who can join:</description>
     </item>
     
     <item>
       <title>Michael D. Porter</title>
-      <link>/team/mike-porter/</link>
+      <link>/team/02mike-porter/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
       
-      <guid>/team/mike-porter/</guid>
+      <guid>/team/02mike-porter/</guid>
       <description></description>
     </item>
     
@@ -57,10 +64,46 @@ This research grant is being organized and sponsored by Dr. Bahman Rostami-Tabar
     
     <item>
       <title>Ahmed Aziz Ezzat</title>
-      <link>/team/aziz-ezzat/</link>
+      <link>/team/03aziz-ezzat/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
       
-      <guid>/team/aziz-ezzat/</guid>
+      <guid>/team/03aziz-ezzat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harsha Chamara</title>
+      <link>/team/04harsha-chamara/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/04harsha-chamara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F4SG Data Repository</title>
+      <link>/services/data-repository/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/data-repository/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>F4SG Forecast Competition</title>
+      <link>/services/competition/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/competition/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Buket Cilali</title>
+      <link>/team/06buket-cilali/</link>
+      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
+      
+      <guid>/team/06buket-cilali/</guid>
       <description></description>
     </item>
     
@@ -70,36 +113,10 @@ This research grant is being organized and sponsored by Dr. Bahman Rostami-Tabar
       <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
       
       <guid>/services/democratising-forecasting/</guid>
-      <description>This is an ongoing initiative sponsored by the International Institute of Forecasters that provides cutting-edge training on forecasting.
-Democratising Forecasting This is an ongoing initiative that provides cutting-edge training in the area of forecasting using R in some of the world’s least developed countries and organisations with social missions. The workshop is free of charge.
-The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.</description>
-    </item>
-    
-    <item>
-      <title>Shraddhanand Shukla</title>
-      <link>/team/shraddhanand-shukla/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/shraddhanand-shukla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingzhi shi</title>
-      <link>/team/mingzhi-shi/</link>
-      <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
-      
-      <guid>/team/mingzhi-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F4SG Data Repository</title>
-      <link>/services/repository/</link>
-      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
-      
-      <guid>/services/repository/</guid>
-      <description>Coming Soon&amp;hellip;</description>
+      <description>We provide cutting-edge trainings on forecasting sponsored by the International Institute of Forecasters.
+Democratising Forecasting This is an ongoing initiative that provides cutting-edge training in the area of forecasting (using R). We provide both online courses and in-person workshops in some of the world’s least developed countries. The workshop is free of charge.
+The project is initiated by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.
+Online courses Africast We have developed an online training to support learners from Sub-Saharan Africa.</description>
     </item>
     
     <item>
@@ -109,24 +126,33 @@ The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored
       
       <guid>/services/book-club/</guid>
       <description>We read, debate and discuss forecasting related books, join us.
-What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. I believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
+What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. We believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
     </item>
     
     <item>
-      <title>Buket Cilali</title>
-      <link>/team/buket-cilali/</link>
+      <title>Hichame Benbitour</title>
+      <link>/team/10hichame-benbitour/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
       
-      <guid>/team/buket-cilali/</guid>
+      <guid>/team/10hichame-benbitour/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hussain Syed Kazmi</title>
-      <link>/team/hussain-kazmi/</link>
+      <title>Shixuan Wang</title>
+      <link>/team/08shixuan-wang/</link>
       <pubDate>Thu, 19 Aug 2021 10:47:58 +1000</pubDate>
       
-      <guid>/team/hussain-kazmi/</guid>
+      <guid>/team/08shixuan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jade Zhang</title>
+      <link>/team/09jade_zhang/</link>
+      <pubDate>Tue, 04 Jan 2022 10:47:58 +1000</pubDate>
+      
+      <guid>/team/09jade_zhang/</guid>
       <description></description>
     </item>
     
@@ -136,8 +162,8 @@ What is the Forecasting Book club? We would like to create an online learning en
       <pubDate>Thu, 26 Aug 2021 17:01:34 +0700</pubDate>
       
       <guid>/contact/</guid>
-      <description>Please feel free to get in touch for any enquiry and if you would like to support the forecasting for social good initiatives by donation or volunteering your time
-   Project Contact     F4SG Workshop Buket Cilali   F4SG Grant Bahman Rostami-Tabar   Democratising Forecasting Ahmed Aziz Ezzat   Book Club Mingzhi shi   Data Repository Hussain Syed Kazmi   F4G Research Network Michael Porter    </description>
+      <description>Please feel free to get in touch with our teamfor any inquiry:
+Project Contact Email Chair Bahman Rostami-Tabar rostami-tabarb@cardiff.ac.uk Co-chair Michael Porter mdp2u@virginia.edu Secretary Aziz Ezzat aziz.ezzat@rutgers.edu Research Network Harsha Chamara buket.cilali@ou.edu Workshop Buket Cilali buket.cilali@ou.edu Grant Shixuan Wang shixuan.wang@reading.ac.uk Democratising Forecasting Bahman Rostami-Tabar rostami-tabarb@cardiff.ac.uk Forecasting Book Club Hicham Benhour hichem.benbitour@gmail.com Community engagement Jade Zhang jz839@drexel.edu </description>
     </item>
     
     <item>

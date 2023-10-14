@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Aug 2021 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>F4SG annual workshop</title>
-      <link>/services/f4sg-workshoop/</link>
+      <title>F4SG Annual Workshop</title>
+      <link>/services/workshop/</link>
       <pubDate>Thu, 26 Aug 2021 15:14:39 +1000</pubDate>
       
-      <guid>/services/f4sg-workshoop/</guid>
+      <guid>/services/workshop/</guid>
       <description>This is an annual workshop sponsored by the International Institute of Forecasters
 Forecasting for Social Good Workshop While there is a growing recognition by agencies, organizations, and governments that data-driven decision making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice.</description>
     </item>
@@ -23,7 +23,14 @@ Forecasting for Social Good Workshop While there is a growing recognition by age
       <pubDate>Tue, 24 Aug 2021 15:15:34 +1000</pubDate>
       
       <guid>/services/network/</guid>
-      <description>Coming Soon &amp;hellip;</description>
+      <description>F4SG Research Network members are researchers and practitioners working on Forecasting for Social Good.
+F4SG Research Network Joining our Research Network is completely free, and gets you:
+updates on forecasting for social good activities
+research invitations to our seminars and events
+opportunities to network and work with other members
+opportunities to work with organisations
+an active platform to share your research and publications on F4SG.
+And here’s who can join:</description>
     </item>
     
     <item>
@@ -38,23 +45,33 @@ This research grant is being organized and sponsored by Dr. Bahman Rostami-Tabar
     </item>
     
     <item>
+      <title>F4SG Data Repository</title>
+      <link>/services/data-repository/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/data-repository/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>F4SG Forecast Competition</title>
+      <link>/services/competition/</link>
+      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/competition/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Democratising Forecasting</title>
       <link>/services/democratising-forecasting/</link>
       <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
       
       <guid>/services/democratising-forecasting/</guid>
-      <description>This is an ongoing initiative sponsored by the International Institute of Forecasters that provides cutting-edge training on forecasting.
-Democratising Forecasting This is an ongoing initiative that provides cutting-edge training in the area of forecasting using R in some of the world’s least developed countries and organisations with social missions. The workshop is free of charge.
-The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.</description>
-    </item>
-    
-    <item>
-      <title>F4SG Data Repository</title>
-      <link>/services/repository/</link>
-      <pubDate>Wed, 18 Aug 2021 12:33:46 +1000</pubDate>
-      
-      <guid>/services/repository/</guid>
-      <description>Coming Soon&amp;hellip;</description>
+      <description>We provide cutting-edge trainings on forecasting sponsored by the International Institute of Forecasters.
+Democratising Forecasting This is an ongoing initiative that provides cutting-edge training in the area of forecasting (using R). We provide both online courses and in-person workshops in some of the world’s least developed countries. The workshop is free of charge.
+The project is initiated by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.
+Online courses Africast We have developed an online training to support learners from Sub-Saharan Africa.</description>
     </item>
     
     <item>
@@ -64,7 +81,7 @@ The project is initiated and delivered by Dr. Bahman Rostami-Tabar and sponsored
       
       <guid>/services/book-club/</guid>
       <description>We read, debate and discuss forecasting related books, join us.
-What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. I believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
+What is the Forecasting Book club? We would like to create an online learning environment dedicated to sharing knowledge in the area of forecasting to be inclusive to the largest number of learners and contributors. We believe nothing can compare to the knowledge you gain through reading books. Therefore, we created this community to read and discuss forecasting related books.</description>
     </item>
     
   </channel>
