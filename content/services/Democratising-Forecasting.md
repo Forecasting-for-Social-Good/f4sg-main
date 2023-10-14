@@ -10,13 +10,22 @@ We provide cutting-edge trainings on forecasting sponsored by the International 
 
 ## Democratising Forecasting
 
-This is an ongoing initiative that provides cutting-edge training in the area of forecasting (using R). We provide both online courses (under development) and in-person workshops in some of the world’s least developed countries and organisations with social missions. The workshop is free of charge.
+This is an ongoing initiative that provides cutting-edge training in the area of forecasting (using R). We provide both online courses and in-person workshops in some of the world’s least developed countries. The workshop is free of charge.
 
-The project is initiated by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters. The project requires coordination and traveling and has been paused due to travel restriction caused by Covid19 pandemic.
+The project is initiated by Dr. Bahman Rostami-Tabar and sponsored by the International Institute of Forecasters.
 
 ## Online courses
 
-We are currently developing an online version of the workshops. We aim to make them accessible ny April 2022. These workshops will be available to everyone for free.
+### Africast
+
+We have developed an online training to support learners from Sub-Saharan Africa. The training runs for 5 days and is designed and delivered by [Mitchell O’Hara-Wild](https://blog.mitchelloharawild.com/) (he/him) and [Bahman Rostami-Tabar](https://www.bahmanrt.com/) (he/him). 
+
+You can visit the workshop website by clicking [here](http://workshop.f4sg.org/africast/).
+
+
+This project is a collaborative effort with a team from Jomo Kenyatta University of Agriculture and Technology in Kenya, led by [Henry Kissinger Ochieng](https://www.ibskenya.org/user/hathiany). They oversee administrative processes such as advertising, application collection, shortlisting, and coordination.
+
+
 
 ## In-person delivery in low/lower/middle income countries 
 
